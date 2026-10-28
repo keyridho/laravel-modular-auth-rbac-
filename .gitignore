@@ -13,7 +13,17 @@
 /.phpunit.cache
 /.vscode
 /.zed
+/.claude/
+/.fleet
+/.history/
+/.mcp.json
+/AGENTS.md
+/boost.json
+/CLAUDE.md
 /auth.json
+/laporan/
+/screenshots/
+/TATA-CARA-PENGERJAAN*.txt
 /node_modules
 /public/build
 /public/fonts-manifest.dev.json
@@ -23,6 +33,8 @@
 /storage/pail
 /vendor
 _ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
